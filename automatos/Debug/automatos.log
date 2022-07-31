@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  automatos.cpp
+C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\automatos\automatos.cpp(53,13): warning C4778: 'printf': cadeia de formato não terminada '%T '
+C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\automatos\automatos.cpp(53,26): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\automatos\automatos.cpp(53,26): message : espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\automatos\automatos.cpp(112,23): warning C4101: 'a': variável local não referenciada
+C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\automatos\automatos.cpp(112,19): warning C4101: 'dir': variável local não referenciada
+  automatos.vcxproj -> C:\Users\rodol\Documents\Backups\desktop\Cefet\3 Ano\Estrutura de dados\automatos\Debug\automatos.exe
